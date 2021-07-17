@@ -1,0 +1,26 @@
+body {
+  background-color: #A7C4BC;
+}
+
+hr {
+
+  border-style: none;
+  border-width: 5px;
+  border-color: grey;
+  border-bottom-style: dotted;
+  width: 5%;
+
+}
+
+h1{
+  color: black;
+}
+
+h2{
+  color: black;
+  font-style: oblique;
+}
+
+img{
+  border-radius: 10%;
+}
